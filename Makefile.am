@@ -1,6 +1,6 @@
 SUBDIRS = mx
 
-SUBDIRS += data tests docs po tools
+SUBDIRS += data docs po
 
 
 ACLOCAL_AMFLAGS=-I m4
